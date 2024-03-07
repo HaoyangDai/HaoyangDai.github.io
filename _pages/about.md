@@ -6,10 +6,10 @@ subtitle: <a href='https://classics.washington.edu/people/haoyang-dai' >Affiliat
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: tumblr_mk25eii4sH1qkcbnko2_1280.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Denny 400K</p>
+    <p>Denny Hall 400K</p>
     <p>Seattle, Washington 98105</p>
     <p></p>
 
