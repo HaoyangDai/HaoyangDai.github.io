@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='[#](https://classics.washington.edu/people/haoyang-dai)'>Affiliations</a>. possit idem de se praedicare, numquam se plus agere, quam nihil cum ageret, numquam minus solum esse, quam cum solus esset.
+subtitle: <a href='[#](https://classics.washington.edu/people/haoyang-dai)'>Affiliations</a>. dhy0620@uw.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Denny 400K</p>
+    <p>Seattle, Washington 98105</p>
+    <p></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
