@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='[#](https://classics.washington.edu/people/haoyang-dai)'>Affiliations</a>. possit idem de se praedicare, numquam se plus agere, quam nihil cum ageret, numquam minus solum esse, quam cum solus esset.
 
 profile:
   align: right
