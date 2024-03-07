@@ -37,23 +37,12 @@
       description:
         - CLAS 205 Bioscientific Vocabulary Building From Latin And Greek, Department of Classics, University of Washington, Seattle. Autumn 2023, Winter 2024, Spring 2024.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Jim Greenfield Graduate Travel Bursaries
 
 - title: Academic Interests
   type: nested_list
