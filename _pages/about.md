@@ -17,4 +17,23 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: "Times New Roman", Times, serif;
+        }
+    </style>
+</head>
+<body>
+<p>
+1
+</p>
+<p>
+2 
+<br>
+3
+</p></body></html>
