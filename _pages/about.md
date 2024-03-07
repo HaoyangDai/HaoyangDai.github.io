@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='[https://classics.washington.edu/people/haoyang-dai]' >Affiliations</a>. dhy0620@uw.edu
+subtitle: <a href='https://classics.washington.edu/people/haoyang-dai' >Affiliations</a>. dhy0620@uw.edu
 
 profile:
   align: right
