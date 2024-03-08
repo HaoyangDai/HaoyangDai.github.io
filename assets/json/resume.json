@@ -50,31 +50,31 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [""]
+      "highlights": "",
     }
   ],
   "education": [
     {
       "institution": "University of Washington, Seattle",
-      "location": "Seattle, Washington",
+      "location": "",
       "url": "",
       "area": "Classics",
       "studyType": "MA",
       "startDate": "2022",
       "endDate": "2024",
       "score": "",
-      "courses": [""]
+      "courses": "",
     },
     {
       "institution": "University of California, Davis",
-      "location": "Davis, California",
+      "location": "",
       "url": "",
       "area": "Classical Civilization",
       "studyType": "BA",
       "startDate": "2018",
       "endDate": "2022",
       "score": "",
-      "courses": [""]
+      "courses": "",
     }
   ],
   "awards": [
