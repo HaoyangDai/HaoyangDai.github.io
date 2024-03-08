@@ -172,32 +172,32 @@
     {
       "language": "Chinese",
       "fluency": "reading, writing, speaking",
-      "icon": "🎙️"
+      "icon": "fas fa-battery-empty"
     },
     {
       "language": "English",
       "fluency": "reading, writing, speaking",
-      "icon": "🎙️"
+      "icon": ""
     },
     {
       "language": "Latin",
       "fluency": "reading",
-      "icon": "📖"
+      "icon": ""
     },
     {
       "language": "Ancient Greek",
       "fluency": "reading",
-      "icon": "📖"
+      "icon": ""
     },
     {
       "language": "French",
       "fluency": "reading",
-      "icon": "📖"
+      "icon": ""
     },
     {
       "language": "German",
       "fluency": "learning",
-      "icon": "🔒"
+      "icon": ""
     }
   ],
   "interests": [
