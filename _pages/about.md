@@ -6,7 +6,7 @@ subtitle: <a href='https://classics.washington.edu/people/haoyang-dai' >Affiliat
 
 profile:
   align: right
-  image: tumblr_mk25eii4sH1qkcbnko2_1280.jpg
+  image: 125.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Denny Hall 400K</p>
