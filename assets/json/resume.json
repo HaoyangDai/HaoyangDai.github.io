@@ -172,32 +172,32 @@
     {
       "language": "Chinese",
       "fluency": "reading, writing, speaking",
-      "icon": "fas fa-battery-empty"
+      "icon": "fas fa-battery-full"
     },
     {
       "language": "English",
       "fluency": "reading, writing, speaking",
-      "icon": ""
+      "icon": "fas fa-battery-full"
     },
     {
       "language": "Latin",
       "fluency": "reading",
-      "icon": ""
+      "icon": "fas fa-battery-half"
     },
     {
       "language": "Ancient Greek",
       "fluency": "reading",
-      "icon": ""
+      "icon": "fas fa-battery-quarter"
     },
     {
       "language": "French",
       "fluency": "reading",
-      "icon": ""
+      "icon": "fas fa-battery-quarter"
     },
     {
       "language": "German",
       "fluency": "learning",
-      "icon": ""
+      "icon": "fas fa-battery-empty"
     }
   ],
   "interests": [
