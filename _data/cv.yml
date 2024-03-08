@@ -2,47 +2,82 @@
   type: map
   contents:
     - name: Full Name
-      value: Haoyang Dai
-    - name:  Native Proficiency Languages
-      value: Chinese, English
-    - name: Reading Proficiency Languages
-      value: Latin, Greek, French
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Classics with emphasis on Ancient History
-      institution: University of California, Santa Barbara
-      year: TBA
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - TBA.
-        - title: MA in Classics
-        institution: University of Washington, Seattle
-        year: 2022.09 - present
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
           contents:
-            - Master Paper: TBA.
-        - title: BA in Classical Civilization
-        institution: University of California, Davis
-        year: 2018 - 2022
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Predoctoral Instructor of Record
-      institution: University of Washington, Seattle
-      year: 2022 - 2023
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - CLAS 101 Latin and Greek in Current Use, Department of Classics, University of Washington, Seattle. Autumn 2022, Winter 2023, Spring 2023.
-      year: 2023 - 2024
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - CLAS 205 Bioscientific Vocabulary Building From Latin And Greek, Department of Classics, University of Washington, Seattle. Autumn 2023, Winter 2024, Spring 2024.
+        - Description 1.
+        - Description 2.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2024
+    - year: 1921
       items:
-        - Jim Greenfield Graduate Travel Bursaries
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
