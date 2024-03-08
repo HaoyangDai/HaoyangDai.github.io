@@ -171,32 +171,32 @@
   "languages": [
     {
       "language": "Chinese",
-      "fluency": "",
+      "fluency": "reading, writing, speaking",
       "icon": "fa-pencil-square-o"
     },
     {
       "language": "English",
-      "fluency": "",
+      "fluency": "reading, writing, speaking",
       "icon": ""
     },
     {
       "language": "Latin",
-      "fluency": "",
+      "fluency": "reading",
       "icon": ""
     },
     {
       "language": "Ancient Greek",
-      "fluency": "",
+      "fluency": "reading",
       "icon": ""
     },
     {
       "language": "French",
-      "fluency": "",
+      "fluency": "reading",
       "icon": ""
     },
     {
       "language": "German",
-      "fluency": "",
+      "fluency": "learning",
       "icon": ""
     }
   ],
