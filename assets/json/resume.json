@@ -50,7 +50,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [""]
+      "highlights": ""
     }
   ],
   "education": [
@@ -63,7 +63,7 @@
       "startDate": "2022",
       "endDate": "2024",
       "score": "",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "University of California, Davis",
@@ -74,7 +74,7 @@
       "startDate": "2018",
       "endDate": "2022",
       "score": "",
-      "courses": [""]
+      "courses": ""
     }
   ],
   "awards": [
