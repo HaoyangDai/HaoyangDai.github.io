@@ -7,6 +7,5 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+My Teaching Portfolio and Teaching Statement are currently under revision.
+Teaching materials will be uploaded shortly after I figure out how to incorporate these materials on this site.
