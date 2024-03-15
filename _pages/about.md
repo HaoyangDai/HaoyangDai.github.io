@@ -38,7 +38,8 @@ His field of interest is history, historiography, and philosophy in the Late Rom
 a fan of early Greek and Roman military tactics.
 </p>
 <p>
-2 
+As an enthusiastic and experienced educator, he is eager to share more interesting things in Classics with
+everyone!
 <br>
 3
 </p></body></html>
