@@ -30,7 +30,12 @@ social: true # includes social icons at the bottom of the page
 </head>
 <body>
 <p>
-1
+Haoyang Dai (Dai) is a second-year MA student in Classics at the University of Washington, Seattle. 
+He received his BA in Classical Civilization in March 2022 at the University of California, Davis.
+He is also an incoming Ph.D. student in Classics with an emphasis in Ancient History at the University 
+of California, Santa Barbara.
+His field of interest is history, historiography, and philosophy in the Late Roman Republic. He is also
+a fan of early Greek and Roman military tactics.
 </p>
 <p>
 2 
